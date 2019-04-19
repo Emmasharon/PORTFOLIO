@@ -17,10 +17,18 @@ nav {
 }
 span{
   color: pink;
-  font-family: fantasy;
+  font-family: 'Alex Brush', sans-serif;
 }
 .hey {
   padding: 50px;
   transform: translate -40%, -40%;
   text-align: center;
+}
+#about, #projects, #contacts {
+  text-align: center;
+}
+emma {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 40px;
 }
