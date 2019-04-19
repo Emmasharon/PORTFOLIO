@@ -30,5 +30,11 @@ span{
 emma {
   display: flex;
   flex-wrap: wrap;
-  padding-left: 40px;
+  text align: center;
+}
+#one, #two, #three {
+  padding: 5%;
+}
+.about {
+  background-color: grey;
 }
