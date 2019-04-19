@@ -9,3 +9,13 @@ nav {
   float:right;
   position: fixed;
 }
+
+.intro {
+  position: relative;
+  text-align: center;
+  color: grey;
+}
+span{
+  color: pink;
+  font-family: fantasy;
+}
