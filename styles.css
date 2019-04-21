@@ -6,10 +6,6 @@ nav ul li a {
   color:pink;
   text-transform: uppercase;
 }
-nav {
-  position: fixed;
-
-}
 .intro {
   position: relative;
   text-align: center;
