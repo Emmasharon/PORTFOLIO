@@ -34,3 +34,9 @@ emma {
 .about {
   background-color: grey;
 }
+body {
+  background-image: url("wine.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-decoration-color: white;
+}
