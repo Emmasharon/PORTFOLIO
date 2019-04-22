@@ -3,16 +3,16 @@ nav ul li {
   padding-left: 200px;
 }
 nav ul li a {
-  color:pink;
+  color: #a3a2a1;
   text-transform: uppercase;
 }
 .intro {
   position: relative;
   text-align: center;
-  color: grey;
+  color: #ceaf12;
 }
 span{
-  color: pink;
+  color: #e09731;
   font-family: 'Alex Brush', sans-serif;
 }
 .hey {
@@ -27,16 +27,32 @@ emma {
   display: flex;
   flex-wrap: wrap;
   text align: center;
+  background-color: #e09731;
 }
 #one, #two, #three {
   padding: 5%;
 }
-.about {
-  background-color: grey;
+.about p {
+  color: black;
 }
-body {
+/* body {
   background-image: url("wine.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  text-decoration-color: white;
+} */
+p {
+  color: #e2d3be;
+}
+.contacts h2 {
+  color
+}
+body{
+  background-color: #aa8561;
+  font-size: 20px;
+}
+#memo {
+  text-align: center;
+}
+#memo img{
+  border-radius: 250px;
 }
