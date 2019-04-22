@@ -1,10 +1,13 @@
 nav ul li {
   display: inline;
-  padding-left: 200px;
+  padding:35px;
 }
 nav ul li a {
   color: #a3a2a1;
   text-transform: uppercase;
+}
+nav {
+  text-align: center;
 }
 .intro {
   position: relative;
@@ -58,4 +61,6 @@ body{
 }
 .contaacts {
 text-align: center;
+padding-top: 40px;
+background-color:#44413d;
 }
